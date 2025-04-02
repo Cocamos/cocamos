@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocamos Hawaiian Style Hot Dogs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffcc80;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff7043;
+            padding: 20px;
+            color: white;
+            font-size: 24px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .menu-item {
+            margin: 20px 0;
+            font-size: 18px;
+        }
+        .footer {
+            background-color: #ff7043;
+            padding: 10px;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cocamos Hawaiian Style Hot Dogs</h1>
+        <p>We make it fast so you can take it slow.</p>
+    </header>
+    
+    <div class="content">
+        <h2>Our Menu</h2>
+        <div class="menu-item">🌭 Classic Hawaiian Hot Dog - Sweet bun, grilled dog, tropical relish</div>
+        <div class="menu-item">🌭 Spicy Island Dog - Sweet bun, spicy sauce, pineapple salsa</div>
+        
+        <h2>Find Us</h2>
+        <p>Visit us at your local harbor fest and events!</p>
+        <p><a href="https://www.google.com/maps" target="_blank">📍 Find us on Google Maps</a></p>
+        
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:info@cocamos.com">info@cocamos.com</a></p>
+        <p>Follow us on <a href="#">Instagram</a> & <a href="#">Facebook</a></p>
+    </div>
+    
+    <div class="footer">
+        <p>&copy; 2025 Cocamos Hawaiian Style Hot Dogs</p>
+    </div>
+</body>
+</html>
